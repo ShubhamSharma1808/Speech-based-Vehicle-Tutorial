@@ -2,9 +2,9 @@
 speech recognition using HMM.
 project build from scratch in c.
 
-=======================================================
+=====================================================
     APPLICATION : vehicle_tutorial Project Overview
-=======================================================
+=====================================================
 
 AppWizard has created this vehicle_tutorial Application for you.  
 
